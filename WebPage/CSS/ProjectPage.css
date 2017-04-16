@@ -10,6 +10,10 @@ a {
     font-family: 
     text-align: center
 }
+b {
+    border: 3px solid blueviolet; 
+    text-align: left
+}
 h1 {
     color: whitesmoke
 }
