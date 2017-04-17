@@ -1,0 +1,18 @@
+header {
+    background-color: blueviolet;
+    text-align: center
+}
+a {
+    color: blueviolet;
+    background-color: darkgrey;
+    border: 3px solid blueviolet;
+    font-size: 40;
+    text-align: center
+}
+h1 {
+    color: whitesmoke
+}
+h2 {
+    color: blueviolet
+    border: 3 px solid blueviolet;
+}

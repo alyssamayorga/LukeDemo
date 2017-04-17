@@ -1,0 +1,8 @@
+header {
+    background-color: blueviolet;
+}
+a {
+    color: blueviolet;
+    background-color: darkgrey;
+    border: 1px solid blueviolet;
+}
